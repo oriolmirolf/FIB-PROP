@@ -1,3 +1,0 @@
-Directori per les classes, els stubs i els drivers.
-
-> src: Directori que conte les classes, els stubs i els drivers.
