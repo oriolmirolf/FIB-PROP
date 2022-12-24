@@ -1,0 +1,6 @@
+Directori on es troben llibreries i dependencies externes.
+
+> hamcrest-core-1.3-sources.jar: Source, dependencia de Junit.
+> hamcrest-core-1.3.jar: Dependencia de Junit.
+> junit-4.12-sources.jar: Source, llibrería requerida pel testeig del projecte.
+> junit-4.12.jar: Llibrería requerida pel testeig del projecte.

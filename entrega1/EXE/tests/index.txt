@@ -1,0 +1,13 @@
+Directori pels tests de les classes.
+
+> DocumentTest.java: Tests de la classe Document.
+> IndexEspaiVectorialTest.java: Tests de la classe IndexEspaiVectorial.
+> IndexTitolTest.java: Tests de la classe IndexTitol.
+> MasterSuiteTest.java: Test de totes les classes.
+> TestExpressioBooleana.java: Tests de la classe ExpressioBooleana.
+> TestIndexAutors.java: Tests de la classe IndexAutors.
+> TestIndexExpressionsBooleanes.java: Tests de la classe IndexExpressionsBooleanes.
+> TestNodeExpressio.java: Tests de la classe NodeExpressio.
+> Vector_BM25Test.java: Tests de la classe Vector_BM25.
+> Vector_TFIDFTest.java: Tests de la classe Vector_TFIDF.
+

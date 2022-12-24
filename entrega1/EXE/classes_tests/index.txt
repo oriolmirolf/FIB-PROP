@@ -1,0 +1,4 @@
+Directori per les classes modificades exclusivament pels tests
+
+> ExpressioBooleanaTest: Classe ExpressioBooleana modificada per tal de poderla testejar exhaustivament, amb stubs i metodes de debugeig.
+> IndexExpressionsBooleanesTest: Classe IndexExpressionsBooleanes modificada per tal de poderla  testejar exhaustivament, amb metodes de debugeig.
