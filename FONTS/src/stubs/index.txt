@@ -1,0 +1,4 @@
+Directori on es troben els diferents stubs.
+
+> CtrlPersistencia.java: Stub de la capa de persistencia. usat per poder declarar controladors.
+> DocumentsStub.java: Stub de documents, usat per aïllar el testeig de les expresions booleanes.

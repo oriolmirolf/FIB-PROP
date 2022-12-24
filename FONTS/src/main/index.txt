@@ -1,0 +1,3 @@
+Directori on es troben les classes de cada capa de l'arquitectura.
+
+> domain: Directori on es troben les classes de la capa de domini.

@@ -1,0 +1,4 @@
+Directori pels jocs de prova i els fitxers per aquests de l'entrega.
+
+> tests: Directori que conte els tests unitaris de les classes.
+> classes_tests: Classes preparades amb stubs i funcions de debug, que no estan en la versio original de la classe ja que serveixen unicament per testejar.
