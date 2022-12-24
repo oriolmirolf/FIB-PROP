@@ -1,0 +1,5 @@
+Directori on es troben les 3 principals subcarpetes del projecte.
+
+> drivers: Directori en el que es troba el driver de domini.
+> main: Directori on es troben les classes.
+> stubs: Directori on es troben els stubs.
