@@ -1,0 +1,6 @@
+Directori on es troben tots els controladors de la capa d'arquitectura de domini.
+
+> CtrlDocument.java: Controlador de les operacions relacionades amb els documents.
+> CtrlDomini.java: Controlador general de la capa de domini.
+> CtrlIndex.java Controlador de les operacions relacionades amb els indexos.
+> CtrlOrdenacioResultats.java:  Controlador de les operacions relacionades amb l'ordenacio de resultats.

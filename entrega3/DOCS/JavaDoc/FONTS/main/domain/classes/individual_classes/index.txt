@@ -1,0 +1,9 @@
+Directori on es guarden les classes individuals, no identificables a cap altre directori.
+
+> Document.java: Classe utilitzada per representar els documents al programa.
+> ExpressioBooleana.java: Classe utilitzada per representar les expresions booleanes.
+> NodeAutors.java: Classe que representa un node intern de l'Índex d'Autors.
+> NodeExpressio.java: Classe que representa un node intern de l'ExpressioBooleana
+> Vector_EV.java: Classe abstracta, ens permetrà representar un document dins de l'espai vectorial on els fills hauran d'implementar l'estratègia de pesos que es vulgui utilitzar.
+> Vector_BM25.java: Classe que ens permetrà representar un Document amb la forma de Vector amb una estrategia de pesos BM25.
+> Vector_TFIDF.java: Classe que ens permetrà representar un Document amb la forma de Vector amb una estrategia de pesos TFIDF

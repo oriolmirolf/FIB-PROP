@@ -1,0 +1,6 @@
+Directori on es troben les classes
+
+> exceptions: Directori en el que es troba les classes excepcions.
+> indexes: Directori en el que es troba les classes indexos.
+> individual_classes: Directori en el que es troba les classes individuals.
+> resultats: Directori en el que es troba les classes de resultats.

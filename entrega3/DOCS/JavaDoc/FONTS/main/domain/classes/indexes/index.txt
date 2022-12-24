@@ -1,0 +1,6 @@
+Directori on es guarden els diferents indexos del projecte
+
+> IndexAutors: Index per representar els autors.
+> IndexEspaiVectorial: Index per representar l'espai vectorial.
+> IndexExpressionsBooleanes: Index per representar les expressions booleanes.
+> IndexTitol: Index per representar els titols.
