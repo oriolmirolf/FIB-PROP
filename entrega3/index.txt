@@ -1,0 +1,8 @@
+Directori pare del projecte. Conte tots els arxius de l'entrega.
+
+> DOCS: Documents necessaris per l'entrega.
+> EXE: Executables per provar les classes i jocs de prova.
+> FONTS: Classes implementades, stubs i drivers.
+> lib: Llibreries necessaries per compilar els jocs de prova.
+> EQUIP.txt: Descripcio de l'equip requerida per la normativa.
+> makefile: Arxiu per poder executar i provar el projecte.
