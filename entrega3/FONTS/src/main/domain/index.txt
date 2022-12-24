@@ -1,0 +1,4 @@
+Directori on es troben les classes i els controladors del domini.
+
+> classes: Directori en el que es troben les classes.
+> controllers: Directori on es troben els controladors.

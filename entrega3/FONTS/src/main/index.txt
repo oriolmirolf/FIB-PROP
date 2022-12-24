@@ -1,0 +1,6 @@
+Directori on es troben les classes de cada capa de l'arquitectura.
+
+> domain: Directori on es troben les classes de la capa de domini.
+> persistencia: Directori on es troben les classes de la capa de persistencia.
+> presentation: Directori on es troben les classes de la capa de presentacio.
+> transversal: Directori on es troben les classes de la capa transversal.

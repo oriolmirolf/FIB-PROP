@@ -1,0 +1,7 @@
+Directori on es troben les classes que reprenan resultats de consultes
+
+> Resultat.java: Classe abstracta i superclasse de les següents 4 classes.
+> ResultatAutor.java: Subclasse per emmagatzemar la informació dels resultats de consultes d'autors. 
+> ResultatDocument.java: Subclasse per emmagatzemar la informació dels resultats de consultes de documents. 
+> ResultatTítol.java: Subclasse per emmagatzemar la informació dels resultats de consultes de títols. 
+> ResultatContingut.java: Subclasse per emmagatzemar la informació dels resultats de consultes de contingut de documents.

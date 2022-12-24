@@ -1,0 +1,19 @@
+Directori on es troben totes les excepcion.
+
+> DocumentJaExisteix.java: Excepcio quan un document ja existeix.
+> DocumentNoGuardat.java: Excepcio quan un document no esta guardat.
+> DocumentNoObert.java: Excepcio quan un document no esta obert.
+> EliminarDocumentObert.java: Excepcio quan volem eliminar un document que esta obert.
+> ExpressioNoValida.java: Excepcio quan una expressio booleana no es valida.
+> FormatNoReconegut.java: Excepcio quan un format no es reconegut.
+> JaExisteixAutor.java: Excepcio quan ja existeix un autor.
+> JaExisteixExpressio.java: Excepcio quan una expressio booleana ja existia.
+ >JaExisteixDocumentObert: Excepció quan hi ha un document obert.
+> MateixAutor.java: Excepcio quan son el mateix autor.
+> MateixTitol.java: Excepcio quan son el mateix titol.
+> NoExisteixAutor.java: Excepcio quan no existeix l'autor.
+> NoExisteixDocument.java: Excepcio quan no existeix el document.
+> NoExisteixExpressio.java: Excepcio quan no existeix l'expressio booleana.
+> NoExisteixPrefix.java: Excepcio quan no existeix el prefix.
+> NumDocumentsIncorrecte.java: Excepcio quan el numero de documents es incorrecte
+

@@ -1,0 +1,3 @@
+Directori on es troben les classes de la Capa de Presentacio.
+> controllers: Carpeta on es troba el Controlador de Presentacio.
+> views: Carpeta on es troben les classes de Presentacio.

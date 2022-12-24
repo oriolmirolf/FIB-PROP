@@ -1,0 +1,2 @@
+Directori on es troben les classes de la Capa de Presentacio.
+> CtrlPresentacio.java: Clase del Controlador de Presentacio.

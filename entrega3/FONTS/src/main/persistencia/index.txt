@@ -1,0 +1,11 @@
+Directori on es troben les classes de la capa de persistencia.
+> Container.java: Clase per emmagatzemar les dades.
+> CtrlConfiguracio.java: Controlador de la configuració de l'aplicacio.
+> CtrlPersistencia.java: Controlador general de la persistencia.
+> excepcions: Carpeta on es troben les excepcions.
+> GestorDocument.java: Gestor de tots els documents que fa comunicacio amb disc.
+> TransformadorArxius.java: Transformador generic d'arxius.
+> TransformadorJSON.java: Transformador d'arxius JSON.
+> TransformadorPDF.java: Transformador d'arxius PDF.
+> TransformadorTextPla.java: Transformador d'arxius TXT.
+> TransformadorXML.java: Transformador d'arxius XML.

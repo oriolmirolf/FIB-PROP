@@ -1,0 +1,2 @@
+Directori on es troben les classes de la capa transversal.
+>Tupla.java: Clase per fer transferencia de dades entre capa de domini i persistencia
