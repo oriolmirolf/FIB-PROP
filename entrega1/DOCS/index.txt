@@ -1,0 +1,8 @@
+Directori per la documentacio del projecte.
+
+> DiagramaCasosDUS.pdf: Diagrama de Casos d'Us en format pdf.
+> DiagramaCasosDUS.svg: Diagrama de Casos d'Us en format svg.
+> DiagramaUML.pdf: Diagrama de classes en format pdf.
+> DiagramaUML.svg: Diagrama de classes en format svg.
+> JavaDoc: Directori on es conte el JavaDoc del projecte.
+> Documentacio_PROP_-_Entrega_1.pdf: Document en format pdf del projecte.
