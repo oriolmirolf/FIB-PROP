@@ -1,0 +1,4 @@
+Carpeta on es troben les excepcions.
+> ErrorIntern.java: Excepció per indicar que hi ha un error intern al sistema
+> NoExisteixPath.java: Excepció per indicar que no existeix un path.
+> PathJaExisteix.java: Excepció per indicar que existeix un path.

@@ -1,0 +1,23 @@
+Directori on es troben les classes de la Capa de Presentacio.
+> autor.png: Imatge que es mostrara en les cerques d'Autors.
+> document.png: Imatge que es mostrara en les cerques de Documents.
+> PanelAfegirExpressio.java: Classe que mostra el Panel Afegir Expressio.
+> PanelAltaDocument.java: Classe que mostra el Panel Alta Document.
+> PanelAutors.java: Classe que mostra el Panel Autors.
+> PanelBaixaDocument.java: Classe que mostra el Panel Baixa Document.
+> PanelCercarAutors.java: Classe que mostra el Panel Cercar Autors.
+> PanelCercarDocAutor.java: Classe que mostra el Panel Cercar Doc Autor.
+> PanelCercarDocContingut.java: Classe que mostra el Panel Cercar Doc Contingut.
+> PanelCercarDocExp.java: Classe que mostra el Panel Cercar Doc Exp.
+> PanelCercarDocRellevants.java: Classe que mostra el Panel Cercar Doc Rellevants.
+> PanelCercarDocSemblants.java: Classe que mostra el Panel Cercar Doc Semblants.
+> PanelConsultarExpressio.java: Classe que mostra el Panel Consultar Expressio.
+> PanelDocuments.java: Classe que mostra el Panel Documents.
+> PanelEditarTitolAutorDocument.java: Classe que mostra el Panel Editar Titol Autor Document.
+> PanelEliminarExpressio.java: Classe que mostra el Panel Eliminar Expressio.
+> PanelExportarDocument.java: Classe que mostra el Panel Exportar Document.
+> PanelImportarDocument.java: Classe que mostra el Panel Importar Document.
+> PanelModificarExpressio.java: Classe que mostra el Panel Modificar Expressio.
+> PanelObrirDocument.java: Classe que mostra el Panel Obrir Document.
+> VistaEditor.java: Classe que mostra la Vista Editor.
+> VistaPrincipal.java: Classe que mostra la Vista Principal.
